@@ -1,1 +1,1 @@
-# Tool_python_re_Subtitle
+# 用python-re，使字幕打印效果更简单
